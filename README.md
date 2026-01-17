@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jhonatan Mickael
 
-<!--
-**jhonatanmickael/jhonatanmickael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Sistemas de Informação pela Universidade Federal de Alagoas (UFAL). 
+Este repositório centraliza toda a minha trajetória no desenvolvimento de software, desde a base acadêmica até projetos pessoais e estudos independentes.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- **Educação:** Estudante de Sistemas de Informação na UFAL (Campus A.C. Simões).
+- **Foco Atual:** Especialização na linguagem Python, com ênfase em algoritmos, estruturas de dados e desenvolvimento backend.
+- **Objetivo:** Documentar a minha evolução técnica e construir um portfólio sólido de soluções práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Organização do Repositório
+Para manter a clareza, o conteúdo está organizado nas seguintes diretórias:
+
+- `/faculdade`: Exercícios, trabalhos e projetos desenvolvidos durante as disciplinas da graduação na UFAL.
+- `/estudos`: Práticas de cursos externos, desafios de lógica e exploração de novas bibliotecas Python.
+- `/projetos`: Sistemas e ferramentas autorais criados para resolver problemas reais ou experimentar tecnologias.
+
+## Tecnologias e Ferramentas
+- **Linguagens:** Python (Principal), Markdown.
+- **Ferramentas:** Git, GitHub, VS Code.
+- **Ambientes:** Windows e Linux.
+
+## Contacto
+- **LinkedIn:** [Teu Link Aqui]
+- **E-mail:** [Teu E-mail Aqui]
