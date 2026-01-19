@@ -8,10 +8,10 @@ Este repositório centraliza toda a minha trajetória no desenvolvimento de soft
 - **Foco Atual:** Especialização na linguagem Python, com ênfase em algoritmos, estruturas de dados e desenvolvimento backend.
 - **Objetivo:** Documentar a minha evolução técnica e construir um portfólio sólido de soluções práticas.
 
-## Organização do Repositório
-Para manter a clareza, o conteúdo está organizado nas seguintes diretórias:
+## Organização do Perfil
 
-- Em desenvolvimento;
+* **jhonatanmickael**: Repositório de configuração do perfil (Profile README). Contém informações biográficas e visão geral da conta.
+* **Aprendendo_Python**: Repositório de prática técnica. Focado em exercícios de lógica, sintaxe e scripts de treinamento em Python.
 
 ## Tecnologias e Ferramentas
 - **Linguagens:** Python (Principal), Markdown.
