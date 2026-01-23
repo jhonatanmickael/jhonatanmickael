@@ -1,26 +1,26 @@
 # Jhonatan Mickael
 
-Graduando em Sistemas de Informação pela Universidade Federal de Alagoas (UFAL). 
-Este repositório centraliza toda a minha trajetória no desenvolvimento de software, desde a base acadêmica até projetos pessoais e estudos independentes.
+Information Systems student at the Federal University of Alagoas (UFAL). 
+This repository centralizes my entire software development journey, from academic foundations to personal projects and independent studies.
 
-## Sobre Mim
-- **Educação:** Estudante de Sistemas de Informação na UFAL (Campus Arapiraca).
-- **Foco Atual:** Especialização na linguagem Python, com ênfase em algoritmos, estruturas de dados e desenvolvimento backend.
-- **Objetivo:** Documentar a minha evolução técnica e construir um portfólio sólido de soluções práticas.
+## About Me
+- **Education:** Information Systems Student at UFAL (Arapiraca Campus).
+- **Current Focus:** Specializing in Python, emphasizing algorithms, data structures, and backend development.
+- **Objective:** Documenting my technical evolution and building a solid portfolio of practical solutions.
 
-## Projetos e Estudos
+## Projects and Studies
 
-### Documentação Pessoal
-- **jhonatanmickael**: Gerenciamento da apresentação do perfil no GitHub.
+### Personal Documentation
+- **jhonatanmickael**: Managing my GitHub profile presentation.
 
-### Desenvolvimento
-- **Aprendendo_Python**: Central de estudos da linguagem Python, contendo scripts de treino e resolução de desafios de lógica.
+### Development
+- **learning-python**: A hub for Python studies, containing training scripts and logic challenge solutions.
 
-## Tecnologias e Ferramentas
-- **Linguagens:** Python (Principal), Markdown.
-- **Ferramentas:** Git, GitHub, VS Code.
-- **Ambientes:** Windows e Linux.
+## Technologies and Tools
+- **Languages:** Python (Primary), Markdown.
+- **Tools:** Git, GitHub, VS Code.
+- **Environments:** Windows and Linux (Arch Linux).
 
-## Contacto
-- **LinkedIn:** [https://www.linkedin.com/in/j-mickael-4b15722a8/]
-- **E-mail:** [jhonata.mickael90@gmail.com]
+## Contact
+- **LinkedIn:** [https://www.linkedin.com/in/j-mickael-4b15722a8/](https://www.linkedin.com/in/j-mickael-4b15722a8/)
+- **Email:** jhonata.mickael90@gmail.com
