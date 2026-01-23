@@ -12,6 +12,7 @@ This repository centralizes my entire software development journey, from academi
 
 ### Personal Documentation
 - **jhonatanmickael**: Managing my GitHub profile presentation.
+- **resume**: Professional resume and career documentation.
 
 ### Development
 - **learning-python**: A hub for Python studies, containing training scripts and logic challenge solutions.
