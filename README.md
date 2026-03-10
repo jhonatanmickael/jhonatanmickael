@@ -1,27 +1,36 @@
 # Jhonatan Mickael
 
-Information Systems student at the Federal University of Alagoas (UFAL). 
-This repository centralizes my entire software development journey, from academic foundations to personal projects and independent studies.
+Estudante de Sistemas de Informação na Universidade Federal de Alagoas (UFAL).  
+Este perfil centraliza minha jornada de desenvolvimento de software, desde bases acadêmicas até projetos pessoais e estudos independentes.
 
-## About Me
-- **Education:** Information Systems Student at UFAL (Arapiraca Campus).
-- **Current Focus:** Specializing in Python, emphasizing algorithms, data structures, and backend development.
-- **Objective:** Documenting my technical evolution and building a solid portfolio of practical solutions.
+---
 
-## Projects and Studies
+## Sobre Mim
+* **Formação:** Estudante de Sistemas de Informação na UFAL (Campus Arapiraca).
+* **Foco Atual:** Especializando-me em **C** e **Python**, com ênfase em algoritmos, estruturas de dados e desenvolvimento backend.
+* **Objetivo:** Documentar minha evolução técnica e construir um portfólio sólido de soluções práticas.
 
-### Personal Documentation
-- **jhonatanmickael**: Managing my GitHub profile presentation.
-- **resume**: Professional resume and career documentation.
+---
 
-### Development
-- **learning-python**: A hub for Python studies, containing training scripts and logic challenge solutions.
+## Projetos e Estudos
 
-## Technologies and Tools
-- **Languages:** Python (Primary), Markdown.
-- **Tools:** Git, GitHub, VS Code.
-- **Environments:** Windows and Linux (Arch Linux).
+### Desenvolvimento
+* **c-study**: Um repositório dedicado à programação em C, incluindo desafios de lógica e implementações fundamentais.
+* **learning-python**: Um hub para estudos de Python, contendo scripts de treinamento e soluções de desafios de lógica.
 
-## Contact
-- **LinkedIn:** [https://www.linkedin.com/in/j-mickael-4b15722a8/](https://www.linkedin.com/in/j-mickael-4b15722a8/)
-- **Email:** jhonata.mickael90@gmail.com
+### Documentação
+* **jhonatanmickael**: Gerenciamento da apresentação e configurações do meu perfil no GitHub.
+* **resume**: Currículo profissional e documentação de carreira.
+
+---
+
+## Tecnologias e Ferramentas
+* **Linguagens:** C, Python, Markdown.
+* **Ferramentas:** Git, GitHub, VS Code.
+* **Ambientes:** Windows e Linux (Arch Linux).
+
+---
+
+## Contato
+* **LinkedIn:** [jhonatanmickael](https://www.linkedin.com/in/j-mickael-4b15722a8/)
+* **E-mail:** jhonata.mickael90@gmail.com
