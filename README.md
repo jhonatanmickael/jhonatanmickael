@@ -1,36 +1,36 @@
 # Jhonatan Mickael
 
-Estudante de Sistemas de Informação na Universidade Federal de Alagoas (UFAL).  
-Este perfil centraliza minha jornada de desenvolvimento de software, desde bases acadêmicas até projetos pessoais e estudos independentes.
+Information Systems student at the Federal University of Alagoas (UFAL).  
+This profile centralizes my software development journey, from academic foundations to personal projects and independent studies.
 
 ---
 
-## Sobre Mim
-* **Formação:** Estudante de Sistemas de Informação na UFAL (Campus Arapiraca).
-* **Foco Atual:** Especializando-me em **C** e **Python**, com ênfase em algoritmos, estruturas de dados e desenvolvimento backend.
-* **Objetivo:** Documentar minha evolução técnica e construir um portfólio sólido de soluções práticas.
+## About Me
+* **Education:** Information Systems student at UFAL (Arapiraca Campus).
+* **Current Focus:** Specializing in **C** and **Python**, with an emphasis on algorithms, data structures, and backend development.
+* **Objective:** Documenting my technical evolution and building a solid portfolio of practical solutions.
 
 ---
 
-## Projetos e Estudos
+## Projects and Studies
 
-### Desenvolvimento
-* **c-study**: Um repositório dedicado à programação em C, incluindo desafios de lógica e implementações fundamentais.
-* **learning-python**: Um hub para estudos de Python, contendo scripts de treinamento e soluções de desafios de lógica.
+### Development
+* **[c-study](https://github.com/jhonatanmickael/c-study)**: A dedicated repository for C programming, including logic challenges and fundamental implementations.
+* **[learning-python](https://github.com/jhonatanmickael/learning-python)**: A hub for Python studies, containing training scripts and logic challenge solutions.
 
-### Documentação
-* **jhonatanmickael**: Gerenciamento da apresentação e configurações do meu perfil no GitHub.
-* **resume**: Currículo profissional e documentação de carreira.
-
----
-
-## Tecnologias e Ferramentas
-* **Linguagens:** C, Python, Markdown.
-* **Ferramentas:** Git, GitHub, VS Code.
-* **Ambientes:** Windows e Linux (Arch Linux).
+### Documentation
+* **[jhonatanmickael](https://github.com/jhonatanmickael/jhonatanmickael)**: Management of my GitHub profile presentation and configurations.
+* **[resume](https://github.com/jhonatanmickael/resume)**: Professional resume and career documentation.
 
 ---
 
-## Contato
+## Technologies and Tools
+* **Languages:** C, Python, Markdown.
+* **Tools:** Git and GitHub.
+* **Environments:** Windows and Linux (Arch Linux).
+
+---
+
+## Contact
 * **LinkedIn:** [jhonatanmickael](https://www.linkedin.com/in/j-mickael-4b15722a8/)
-* **E-mail:** jhonata.mickael90@gmail.com
+* **Email:** jhonata.mickael90@gmail.com
